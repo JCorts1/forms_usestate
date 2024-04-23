@@ -4,6 +4,7 @@ import TextArea from './components/TextArea'
 import Checkbox from './components/Checkbox'
 import Radio from './components/Radio'
 import Select from './components/Select'
+import Date from './components/Date'
 
 const App = () => {
 
@@ -15,6 +16,7 @@ const App = () => {
       <Checkbox />
       <Radio />
       <Select />
+      <Date />
 
     </div>
   )
